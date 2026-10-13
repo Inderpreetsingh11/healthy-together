@@ -18,3 +18,4 @@ table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
 th, td { text-align: left; vertical-align: top; padding: 10px 8px; border-bottom: 1px solid var(--line); }
 th { color: var(--muted); font-weight: 600; }
 li { margin: 4px 0; }
+.logo { display: block; height: 56px; width: auto; margin: 0 0 28px; color: var(--text); }
